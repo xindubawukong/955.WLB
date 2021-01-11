@@ -53,7 +53,7 @@
 * Hulu - 北京
 * IBM - 上海 (GBS除外)
 * iHerb - 上海
-* Intel - 上海
+* Intel - 北京/上海
 * LeetCode - 上海
 * Linkedin - 北京
 * National Instruments - 上海
